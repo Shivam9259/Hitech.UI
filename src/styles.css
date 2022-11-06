@@ -1,0 +1,30 @@
+/* You can add global styles to this file, and also import other style files */
+ngb-modal-backdrop{
+    z-index: 985 !important;
+}
+
+.btn-prime{
+    background-color: #0ACADC !important;
+    border-color: transparent !important;
+    color: #fff !important;
+}
+
+.btn-prime:active{
+    background-color: #0ACADC !important;
+    border-color: transparent !important;
+    color: #fff !important;
+}
+
+.btn-prime:active{
+    background-color: #0ACADC !important;
+    border-color: transparent !important;
+    color: #fff !important;
+}
+
+/* a {
+    color: #0ACADC !important;
+} */
+
+.card.card-prime {
+    border-top: 2px solid #0ACADC;
+}

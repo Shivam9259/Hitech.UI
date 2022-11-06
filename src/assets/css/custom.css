@@ -1,0 +1,32 @@
+
+/*# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiY3VzdG9tLmNzcyIsInNvdXJjZXMiOlsiY3VzdG9tLnNjc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiJ9 */
+@media ( min-width:990px){
+    a.nav-link.nav-link-lg.collapse-btn {
+        pointer-events: none;
+        display: none;
+    }
+}
+nav.navbar.navbar-expand-lg.main-navbar.navbar-2 {
+    top: 60px;
+}
+
+
+nav.navbar.navbar-expand-lg.main-navbar.navbar-2 ul li {
+    color: black !important;
+    float: right;
+}
+
+nav.navbar.navbar-expand-lg.main-navbar.navbar-2 ul li a {
+    color: black;
+    font-weight: 600;
+}
+nav.navbar.navbar-expand-lg.main-navbar.navbar-2 ul li div {
+    color: black;
+    font-weight: 600;
+}
+.image-logo{
+    width:105px;
+}
+
+
+/*# sourceMappingURL=custom.css.map */
